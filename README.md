@@ -13,7 +13,7 @@ more relevantly, i'm working on **Paperboard** at Milenium (https://github.com/M
   - hook into your claude, chatgpt, or opencode, and get a personal ai agent that can log into your accounts, execute things on your behalf, and pull up information from anywhere
 - and more. please check it out: https://paperboard.dev
 
-outside of Paperboard, i'm interested in using ai for programming tastefully and i make some things for fun.
+outside of Paperboard, i make some other cool projects. i don't like to ship things i wouldn't use!
 - cascade (https://cascade.mileniumhq.com) - create videos using agents without sacrificing your creativity
 - sentris, a desktop environment i'm making for fun
 - coming soon: a really fun social game. can't say much yet, but it will be awesome
