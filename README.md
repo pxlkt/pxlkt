@@ -7,11 +7,15 @@ perchance this isn't too helpful if you want to hire me, but:
 - on the contrary, i hate windows
 
 more relevantly, i'm working on **Paperboard** at Milenium (https://github.com/MileniumHQ/Paperboard), which is a toolkit for self hosting. it's super cool, here's what it can do in what i guarantee you only takes a few clicks:
-- create minecraft servers (with easy plugin install, world map, world switching, and more)
-- run local ai models with web search capability and tooling with the rest of your computer
-- create and manage fully functional discord bots without writing a single line of code
-- bring it all together with an actions panel that has a scratch/apple shortcuts inspired interface for automating all the above (plus some) with simple, instantly understandable blocks!
+- create game servers
+  - paperboard is the best panel for minecraft servers, it's the only time i can keep saying "and more" over and over and it actually means something. plus, it supports terraria, palworld, tf2, and more coming soon!
+- run a local agent with its own computer
+  - hook into your claude, chatgpt, or opencode, and get a personal ai agent that can log into your accounts, execute things on your behalf, and pull up information from anywhere
+- and more. please check it out: https://paperboard.dev
 
-outside of Paperboard, i'm interested in using ai for programming tastefully and i make some things for fun
+outside of Paperboard, i'm interested in using ai for programming tastefully and i make some things for fun.
+- cascade (https://cascade.mileniumhq.com) - create videos using agents without sacrificing your creativity
+- sentris, a desktop environment i'm making for fun
+- coming soon: a really fun social game. can't say much yet, but it will be awesome
 
 shoot me an email at tails@pxlkt.com or say hi on twitter at [@pxlkt_com](https://x.com/pxlkt_com)
