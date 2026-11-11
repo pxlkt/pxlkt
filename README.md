@@ -16,6 +16,5 @@ more relevantly, i'm working on **Paperboard** at Milenium (https://github.com/M
 outside of Paperboard, i make some other cool projects. i don't like to ship things i wouldn't use!
 - cascade (https://cascade.mileniumhq.com) - create videos using agents without sacrificing your creativity
 - sentris, a desktop environment i'm making for fun
-- coming soon: a really fun social game. can't say much yet, but it will be awesome
 
 shoot me an email at tails@pxlkt.com or say hi on twitter at [@pxlkt_com](https://x.com/pxlkt_com)
